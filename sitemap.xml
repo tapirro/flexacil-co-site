@@ -661,6 +661,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.co/condiciones/condromalacia-rotuliana/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.co/condiciones/contractura-muscular/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -697,6 +703,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.co/condiciones/dolor-de-codo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.co/condiciones/dolor-de-espalda/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -709,7 +721,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.co/condiciones/dolor-de-muneca/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/condiciones/dolor-de-pie/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.co/condiciones/dolor-de-rodilla/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/condiciones/dolor-de-tobillo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -740,6 +770,12 @@
   </url>
   <url>
     <loc>https://flexacil.co/condiciones/espondilitis/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/condiciones/espondiloartrosis/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -794,6 +830,18 @@
   </url>
   <url>
     <loc>https://flexacil.co/condiciones/rigidez-articular/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/condiciones/sacroileitis/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/condiciones/sindrome-piriforme/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
