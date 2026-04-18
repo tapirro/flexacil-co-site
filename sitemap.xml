@@ -361,6 +361,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.co/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.co/ingrediente/acido-hialuronico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -368,6 +374,12 @@
   </url>
   <url>
     <loc>https://flexacil.co/ingrediente/arandanos/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/ingrediente/biotina/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -391,6 +403,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.co/ingrediente/coenzima-q10/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.co/ingrediente/colageno-tipo-ii/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -409,6 +427,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://flexacil.co/ingrediente/cromo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://flexacil.co/ingrediente/curcuma/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -423,6 +447,12 @@
   <url>
     <loc>https://flexacil.co/ingrediente/glucosamina/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/ingrediente/hierro/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -446,6 +476,12 @@
   </url>
   <url>
     <loc>https://flexacil.co/ingrediente/omega-3/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://flexacil.co/ingrediente/potasio/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
